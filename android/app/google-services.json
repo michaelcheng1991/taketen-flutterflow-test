@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776015002571",
+    "project_id": "taketen-dating",
+    "storage_bucket": "taketen-dating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776015002571:android:5dea69d24bb74dae42144e",
+        "android_client_info": {
+          "package_name": "com.mycompany.taketen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWIwTZ1OcmIQnNAkJC9W9MDUDQoqgAHns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
